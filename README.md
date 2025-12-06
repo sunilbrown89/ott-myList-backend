@@ -6,6 +6,11 @@
 2) npm run dev
 3) check on postman/locally: http://localhost:8000/
 <br>
+<br>
+<br>
+<br>
+POSTMAN LINK: https://.postman.co/workspace/My-Workspace~1238d449-643a-4b35-80dd-c5baf3042933/request/46472127-c6cb65e4-2414-4794-b2f7-8ccf8bd1feea?action=share&creator=46472127&active-environment=46472127-e9bd8666-7293-492a-b537-9b868de1f45b
+
 
 
 
